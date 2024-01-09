@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, NTV
+http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8?token=9b2bc0fa818e2bd957796d620582b12c9a55beff-6b31cfb734f54b8aaafbfd212b0672e1-1704839078-1704828278
